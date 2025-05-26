@@ -28,8 +28,8 @@ Currently focused on:
 
 ## 🌍 Let's connect!
 
-- [LinkedIn](https://www.linkedin.com/in/dawidbuda) *(ustaw jeśli jeszcze nie masz)*
-- [Instagram](https://www.instagram.com/dawid.buda) *(opcjonalnie link do profilu dev)*
+- [LinkedIn] (https://www.linkedin.com/in/dawidbuda)
+- [Instagram] (https://www.instagram.com/dawid.buda)
 - 📫 buda.dawid@gmail.com
 
 
