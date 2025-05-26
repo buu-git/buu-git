@@ -21,7 +21,7 @@ Currently focused on:
 
 ## 📚 Education
 
-- 🎓 Python Development @ Kozminski University (2021–2022)
+- 🎓 Python Development @ Kozminski University in Warsaw
 - 🎓 Master’s in Economics/Market Analysis @ University of Economics in Katowice
 - 🎓 Bachelor’s in International Economic Relations @ University of Economics in Katowice
 
