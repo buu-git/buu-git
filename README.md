@@ -29,7 +29,7 @@ Currently focused on:
 ## 🌍 Let's connect!
 
 - [LinkedIn] (https://www.linkedin.com/in/dawidbuda)
-- [Instagram] (https://www.instagram.com/dawid.buda)
+- [Instagram] (https://www.instagram.com/buudave?igsh=MmtjNGRhMjE1YWQ%3D)
 - 📫 buda.dawid@gmail.com
 
 
