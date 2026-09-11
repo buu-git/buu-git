@@ -1,35 +1,34 @@
-# 👋 Hi, I'm Dawid Buda
+### Hi, I'm Dawid Buda
 
-🎯 **Finance & Data Professional** 
-With over 5 years of experience in financial reporting, business analysis, and cost optimization — I bring analytical thinking and strategic insight to coding.
+Finance & Data Professional with over 5 years of experience in financial reporting, business analysis, and cost optimization. I bridge the gap between analytical thinking, business strategy, and modern software development.
 
-## 💼 Professional Background
+---
 
-These roles honed my:
-- Business acumen & process improvement mindset
-- Stakeholder collaboration and data-driven decision-making
-- Experience with tools like Power BI, SAP, MS Office, and VBA
+### Professional Background
 
-## 💻 Tech Stack
+* **Business Acumen & Process Improvement:** Driving efficiency through data-driven decision-making and cross-functional collaboration.
+* **Core Tools:** Python, Power BI, SQL, SAP, and advanced data workflows.
 
-Currently focused on:
-- 🐍 **Python**
-- 🌐 **Django**
-- 🧠 **SQL** (MySQL)
-- 📊 **Power BI**
+---
 
+### Tech Stack
 
-## 📚 Education
+* **Languages & Frameworks:** Python, Django
+* **Databases:** MySQL, Postres
+* **Analytics & BI:** Power BI, Advanced Excel / VBA
 
-- 🎓 Python Development @ Kozminski University in Warsaw
-- 🎓 Master’s in Economics/Market Analysis @ University of Economics in Katowice
-- 🎓 Bachelor’s in International Economic Relations @ University of Economics in Katowice
+---
 
+### Education
 
-## 🌍 Let's connect!
+* **Python Development** — Kozminski University in Warsaw
+* **Master's in Economics / Market Analysis** — University of Economics in Katowice
+* **Bachelor's in International Economic Relations** — University of Economics in Katowice
 
-- [LinkedIn] (https://www.linkedin.com/in/dawidbuda)
-- [Instagram] (https://www.instagram.com/buudave?igsh=MmtjNGRhMjE1YWQ%3D)
-- 📫 buda.dawid@gmail.com
+---
 
+### Connect
 
+* **Website:** [allty.pl](https://www.allty.pl)
+* **LinkedIn:** [in/dawidbuda](https://www.linkedin.com/in/dawidbuda)
+* **Email:** buda.dawid@gmail.com
